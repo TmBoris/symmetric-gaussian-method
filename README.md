@@ -1,0 +1,1 @@
+# symmetric-gaussian-method
