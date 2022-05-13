@@ -1,4 +1,4 @@
-# Overall Preview
+** Overall Preview **
 
 This github project is just a toy to know how it works, that's why it has no localisation.
 
@@ -9,8 +9,11 @@ This github project is just a toy to know how it works, that's why it has no loc
 
 # Матрица
 Задается в виде
+
 2 - ширина матрички
+
 1 0
+
 0 1 - сама матрица
 
 # Итог
