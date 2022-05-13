@@ -7,8 +7,7 @@ This github project is just a toy to know how it works, that's why it has no loc
 # ВАЖНО
 Входные данные с точки зрения пунктуации строги
 
-# Матрица
-Задается в виде
+Матрица задается в виде
 ```
 2 - ширина матрички
 1 0
